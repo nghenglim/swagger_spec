@@ -1,7 +1,7 @@
 use Schema;
 #[derive(Clone, Debug)]
 pub enum ParameterIn {
-    QUERY,
+    Query,
 }
 #[derive(Clone, Debug)]
 pub struct Parameter {

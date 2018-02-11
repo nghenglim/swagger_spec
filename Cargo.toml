@@ -1,6 +1,6 @@
 [package]
 name = "swagger_spec"
-version = "0.1.0"
+version = "0.2.0"
 authors = ["Ng Heng Lim <nghenglim@gmail.com>"]
 license = "MIT"
 description = "Swagger Spec, specify swagger specification based on swagger 3.0 for rust api so that you can have swagger doc gen and api type checking all at once."
